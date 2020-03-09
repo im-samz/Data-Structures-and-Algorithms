@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Western University - CS 2210
+Western University - CS 2210A
