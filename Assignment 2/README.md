@@ -2,7 +2,7 @@
 The project was to create a simple Pac-Man game with a single ghost chasing after the player. 
 
 ## Learning Purpose
-Students were tasked to program collision detection of the graphical figures. This included implementing a collision detection algorithm and a Binary Search Tree that stores all the pixels of a given graphical figure. All major methods of a BST were used to check if each pixel of a figure was intersecting with another.
+Students were tasked to program collision detection of the graphical figures. This included implementing an intersection detection algorithm between pixels and a Binary Search Tree that stores all the pixels of a given graphical figure. All major methods of a BST were used to check if each pixel of a figure was intersecting with another.
 
 ## Student Contribution
 Students were to implement the following classes: **Location, Pixel, BinarySearchTree, BinaryNode, GraphicalFigure, DuplicatedKeyException, InexistentKeyException, and EmptyTreeException**. The remaining classes were provided by the instructor.
