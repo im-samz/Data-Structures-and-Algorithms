@@ -11,6 +11,7 @@ Classes implemented include Record.java, Dictionary.java, and nk_TicTacToe.java.
 To run, place image files into the same directory as the java files. Play_nk_TTT.java contains the main method, so the program can be executed by typing
   **java Play_nk_TTT.java n k max_levels**
   
+
 ```
- **Grade Achieved:** 100%
+Grade Achieved: 100%
 ```
