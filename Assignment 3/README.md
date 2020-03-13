@@ -13,7 +13,10 @@ To run, place all image and text files outside the src directory containing the 
 *Note:* the first eight lines of the text file represent the scale, start location, end location, width of road, length of road, initial rewards, toll cost, and reward gain. The following lines represent the road map: + is an intersection; X is a house; T is a toll road; C is a reward road; and F is a free road.
 
 The main method is found in Path.java, and the program can be executed by typing the following in the command window:
+
 **java Path input_file**
+
+You may also append an additional parameter, **delay**, where delay is the number of milliseconds the program waits before drawing the next edge.
 
 ```
 Grade Achieved: 100%
