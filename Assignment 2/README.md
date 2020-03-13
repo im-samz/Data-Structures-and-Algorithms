@@ -7,10 +7,10 @@ Students were tasked to program collision detection of the graphical figures. Th
 ## Student Contribution
 Students were to implement the following classes: **Location, Pixel, BinarySearchTree, BinaryNode, GraphicalFigure, DuplicatedKeyException, InexistentKeyException, and EmptyTreeException**. The remaining classes were provided by the instructor.
 
-### How to Run
+## How to Run
 To run, place all image and text files outside of the src directory containing the java files. The text files will be parsed to set the structure of the game-field. The main method is found in Show.java, and the program can be executed by typing the following in the command window:
 
-  **java Show *input_txt_file* **
+  **java Show input_txt_file**
 
 You may need to expand the output window to view the menu controls.
 
