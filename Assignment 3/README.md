@@ -1,7 +1,7 @@
 # Project Description
 The project was to create a program that finds a path between two points on a roap map, which is specified by custom input files. The road map contains three types of roads: toll roads, normal roads, and reward roards. As such, an additional constrainst is added to force the program to accumulate enough rewards to traverse through necessary toll roads.
 
-## Learning Purpose
+## Learning Objectives
 Students were to implement the **Undirected Graph** data structure and perform a custom depth first search traversal to find a satisfiable path.
 
 ## Student Contribution
