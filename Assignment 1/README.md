@@ -8,8 +8,9 @@ Students were tasked to program an algorithm for the computer to decide which ti
 Classes implemented include Record.java, Dictionary.java, and nk_TicTacToe.java. All other classes were provided by the instructor.
 
 ## How to Run
-To run, place image files into the same directory as the java files. Play_nk_TTT.java contains the main method, so the program can be executed by typing
-  **java Play_nk_TTT.java n k max_levels**
+To run, place image files outside the src directory containing the java files. Play_nk_TTT.java contains the main method, so the program can be executed by typing 
+
+  **java Play_nk_TTT n k max_levels**
   
 
 ```
